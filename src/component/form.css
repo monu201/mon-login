@@ -1,0 +1,33 @@
+.details{
+    width:300px;
+    height:20%;
+    background-color:rgba(26, 22, 22, 0.932);
+    color:white;
+    padding:2em;
+    text-align:center;
+    margin: 5% auto;
+    border-radius:1em;
+    box-shadow:10px 10px 10px rgb(0, 0, 0,0.6);
+
+}
+
+.mon>i{
+    font-size:30px;
+}
+
+.input{
+    padding:0.5em;
+    outline: none;
+    width:300px;
+    border-radius:1em;
+    border:none;
+}
+
+.mon{
+    margin-top:20px
+}
+
+.message{
+    padding:2em;
+    text-align:center
+}
